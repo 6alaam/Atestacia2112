@@ -1,0 +1,15 @@
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\Atestacia2112\bin\Debug\net6.0\Atestacia2112.exe
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\Atestacia2112\bin\Debug\net6.0\Atestacia2112.deps.json
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\Atestacia2112\bin\Debug\net6.0\Atestacia2112.runtimeconfig.json
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\Atestacia2112\bin\Debug\net6.0\Atestacia2112.dll
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\Atestacia2112\bin\Debug\net6.0\Atestacia2112.pdb
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\Atestacia2112\obj\Debug\net6.0\Atestacia2112.csproj.AssemblyReference.cache
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\Atestacia2112\obj\Debug\net6.0\Atestacia2112.GeneratedMSBuildEditorConfig.editorconfig
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\Atestacia2112\obj\Debug\net6.0\Atestacia2112.AssemblyInfoInputs.cache
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\Atestacia2112\obj\Debug\net6.0\Atestacia2112.AssemblyInfo.cs
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\Atestacia2112\obj\Debug\net6.0\Atestacia2112.csproj.CoreCompileInputs.cache
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\Atestacia2112\obj\Debug\net6.0\Atestacia2112.dll
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\Atestacia2112\obj\Debug\net6.0\refint\Atestacia2112.dll
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\Atestacia2112\obj\Debug\net6.0\Atestacia2112.pdb
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\Atestacia2112\obj\Debug\net6.0\Atestacia2112.genruntimeconfig.cache
+C:\ДЗ\gitdz\Vvedenie v Programirovanue\DZ\Atestacia2112\obj\Debug\net6.0\ref\Atestacia2112.dll
